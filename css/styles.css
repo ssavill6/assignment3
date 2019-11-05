@@ -32,3 +32,10 @@ body {
     margin: 0 auto 0 auto;
     width: 80%;
 }
+
+
+header nav 
+{
+    display: flex;
+    justify-content: flex-end;
+}
